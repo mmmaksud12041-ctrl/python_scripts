@@ -1,6 +1,8 @@
+#For STATS
 full_dot = '●'
 empty_dot = '○'
 
+#Creating Function
 def create_character(a, b, c, d):
     # 1. Check if name is a string
     if not isinstance(a, str):
